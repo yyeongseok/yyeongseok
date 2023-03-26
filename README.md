@@ -29,7 +29,7 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://cautious-timbale-726.notion.site/16944d9d72204233843174ed56981b04">
+	<a href="https://velog.io/@yyeong">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
   <a href="https://cautious-timbale-726.notion.site/16944d9d72204233843174ed56981b04">
