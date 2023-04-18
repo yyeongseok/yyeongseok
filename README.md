@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat&logo=NestJs&logoColor=white" />
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-#47A248?style=flat&logo=MongoDB&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
 </div>
 <br>
 <div align=center>
